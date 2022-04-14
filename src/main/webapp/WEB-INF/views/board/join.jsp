@@ -11,5 +11,6 @@
 	비밀번호 : ${member.pw }<br>
 	이름 : ${member.name }<br>
 	이메일 : ${member.email }<br>
+	<!-- http://localhost:8888/ex_13_1/board/join?id=lion&pw=12345 -->
 </body>
 </html>
